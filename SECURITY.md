@@ -16,7 +16,7 @@
       <td style="padding: 8px; border: 1px solid #30363d;"><b>Windows 10 Mobile</b></td>
       <td style="padding: 8px; border: 1px solid #30363d;">Fat Binary (ARM/x86)</td>
       <td style="padding: 8px; border: 1px solid #30363d;"><code>.appxbundle</code></td>
-      <td style="padding: 8px; border: 1px solid #30363d;"><code>[380F02AAC8FD8E1E7F57876873AD13D12F8167A214D5F4AD4095862202E0AF7E (App),FF374E03CFD55190CBACA8FFE908038D3B3731033A085E553E8DF1309B74F8DA (Public Key)]</code></td>
+      <td style="padding: 8px; border: 1px solid #30363d;"><code>[E4FACB826DBD0C050A9E4824682B1D34ACCF3F601F69EA50341954608B8181BD (App), FF374E03CFD55190CBACA8FFE908038D3B3731033A085E553E8DF1309B74F8DA (Public Key)]</code></td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #30363d;"><b>Android</b></td>
