@@ -1,0 +1,57 @@
+# Logger 26: High-Performance POTA Logging
+
+> **The lightweight, high-performance logging terminal designed for the modern portable operator.**
+
+Built to target the **UWP standards**, Logger 26 offers a "zero-bloat" experience for **POTA**, **SOTA**, or mobile **HF/VHF** operations.
+
+---
+
+###  Core Features
+
+* **Rapid QSO Entry**
+    Log callsigns, frequency, mode, RST, and power with minimal taps. Timestamps are fully automated so you can stay focused on the pileup.
+* **Smart Band & Mode Detection**
+    Intelligently maps frequencies to bands to reduce manual entry errors and speed up your workflow.
+* **CW Haptic Engine**
+    A unique tactile feedback system. Confirm callsigns and status signals via **Morse code vibration**—perfect for bright sunlight where screens are hard to read.
+* **Session History**
+    View and verify your 5 most recent QSOs at a glance for quick on-the-fly corrections.
+* **Windows 10 Live Tiles**
+    Integration with the Metro UI allows you to view your latest contacts directly on your home screen.
+
+---
+
+### Why Logger 26 is Different
+
+While other apps are filled with trackers and insecure storage, **Logger 26** is built from the ground up for the security-conscious operator:
+
+* **Hardware-Backed Encryption**
+    Your QRZ credentials aren't just saved; they are encrypted using **AES-GCM** within the Windows Password Vault.
+* **Zero Telemetry**
+    No ads, no analytics, and no third-party tracking. Your data stays strictly between you and QRZ.com.
+* ** Native & Modern**
+    Optimized for the **Windows 10 Mobile Metro UI**. It feels like a native part of your OS, not an afterthought.
+* ** Privacy-First**
+    Forced **HTTPS (TLS 1.3)** for all transmissions.
+
+> [!TIP]
+> **Only Modern Cloud Native Ham radio software currently available for Windows 10 Mobile.**
+
+---
+
+###  Distribution & Installation
+
+Logger 26 removes the "digital friction" of logging, allowing you to focus on the radio, not the screen.
+
+* **Format:** Distributed as a lightweight `.appxbundle` **universal* binary** for manual sideloading.
+* **Compatibility:** Designed Mobile-first for ARM, with an experimental X86 compatibility layer.
+
+---
+
+### Verification
+*Security is a priority. Please check the separate [SECURITY.md](./SECURITY.md) file for official SHA-256 hashes before installation.*
+
+**73 de SP9HKA**
+
+---
+*`* Compiled for X86 as experimental compatibility layer.`
