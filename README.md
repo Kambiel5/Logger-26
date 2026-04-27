@@ -22,3 +22,6 @@
   <td style="padding: 8px; border: 1px solid #30363d;">C# + Metro UI</td>
   <td style="padding: 8px; border: 1px solid #30363d;"><code>TBA</code></td>
 </tr>
+
+For support regarding Logger 26, please open an Issue here or contact me via kamilbiela93@proton.meTroubleshoot Procedures TBA
+0 commit commentsComments0 (0)Lock conversation
