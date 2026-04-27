@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f1a8b75-75fd-4919-b310-f57014dd94c8" /># Logger-26
+
 
 Platform Native Lightweight QRZ Data entry terminal.
 
