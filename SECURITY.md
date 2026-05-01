@@ -33,12 +33,12 @@
 <h3> How to verify</h3>
 
 <h4>Windows (PowerShell):</h4>
-<pre><code>Get-FileHash .\Logger26_v1.0_arch.appxbundle</code></pre>
+<pre><code>Get-FileHash .\Path to your fike</code></pre>
 
 <h4>Android (Termux / Linux / SDK):</h4>
 <p><b>1. Verify Hash:</b></p>
-<pre><code>sha256sum Logger26.apk</code></pre>
-<p><b>2. Verify Developer Signature (BielsonSoft):</b></p>
+<pre><code>sha256sum Path to your file</code></pre>
+<p><b>2. Verify Developer Signature (Android only):</b></p>
 <pre><code>apksigner verify --print-certs "Logger 26.apk"</code></pre>
 
 <hr />
