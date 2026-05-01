@@ -33,7 +33,7 @@
 <h3> How to verify</h3>
 
 <h4>Windows (PowerShell):</h4>
-<pre><code>Get-FileHash .\Path to your fike</code></pre>
+<pre><code>Get-FileHash .\Path to your file</code></pre>
 
 <h4>Android (Termux / Linux / SDK):</h4>
 <p><b>1. Verify Hash:</b></p>
