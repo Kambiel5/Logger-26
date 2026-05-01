@@ -34,6 +34,8 @@
 
 <h4>Windows (PowerShell):</h4>
 <pre><code>Get-FileHash .\Path to your file</code></pre>
+<p><b>2. Verify Developer Signature (Android only):</b></p>
+<pre><code>apksigner verify --print-certs "Logger 26.apk"</code></pre>
 
 <h4>Linux/macOS:</h4>
 <p><b>1. Verify Hash:</b></p>
