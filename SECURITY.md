@@ -35,7 +35,7 @@
 <h4>Windows (PowerShell):</h4>
 <pre><code>Get-FileHash .\Path to your file</code></pre>
 
-<h4>Android (Termux / Linux / SDK):</h4>
+<h4>Linux/macOS:</h4>
 <p><b>1. Verify Hash:</b></p>
 <pre><code>sha256sum Path to your file</code></pre>
 <p><b>2. Verify Developer Signature (Android only):</b></p>
