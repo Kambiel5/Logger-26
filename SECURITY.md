@@ -33,15 +33,16 @@
 <h3> How to verify</h3>
 
 <h4>Windows (PowerShell):</h4>
+<p><b>1. Verify Hash:</b></p>
 <pre><code>Get-FileHash .\Path to your file</code></pre>
 <p><b>2. Verify Developer Signature (Android only):</b></p>
-<pre><code>apksigner verify --print-certs "Logger 26.apk"</code></pre>
+<pre><code>apksigner verify --print-certs Path to your file</code></pre>
 
 <h4>Linux/macOS:</h4>
 <p><b>1. Verify Hash:</b></p>
 <pre><code>sha256sum Path to your file</code></pre>
 <p><b>2. Verify Developer Signature (Android only):</b></p>
-<pre><code>apksigner verify --print-certs "Logger 26.apk"</code></pre>
+<pre><code>apksigner verify --print-certs Path to your file"</code></pre>
 
 <hr />
 <p><strong>73 de SP9HKA</strong> | <a href="https://github.com/Kambiel5">BielsonSoft on GitHub</a></p>
