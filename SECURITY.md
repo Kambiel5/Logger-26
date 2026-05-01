@@ -22,7 +22,8 @@
       <td style="padding: 8px; border: 1px solid #30363d;"><b>Android</b></td>
       <td style="padding: 8px; border: 1px solid #30363d;">ARM64</td>
       <td style="padding: 8px; border: 1px solid #30363d;"><code>.apk</code></td>
-      <td style="padding: 8px; border: 1px solid #30363d;"><code>[TBA]</code></td>
+      <td style="padding: 8px; border: 1px solid #30363d;"><code>[ certificate: ff98ca0d2f0e6ec517e4cc34f14dfd043bea3709d45d8cf1edcb8094fa86f0e2| Filehash:ca02dc1f0b146625b5c012673f589f213ef2995048723bd18e59e508d5f112a5
+]</code></td>
     </tr>
   </tbody>
 </table>
