@@ -16,3 +16,9 @@ Fully native Swift + SwiftUI
 Fully native C# + Metro UI
 
 Appx packages available in Releases
+
+**Desktop**
+Not officially supported
+Windows 10/11: Install Windows 10 mobile appx on desktop
+MacOS (Apple Silicon Mac):Install app from appstore
+
