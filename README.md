@@ -25,3 +25,15 @@ Windows 10/11: Install Windows 10 mobile appx on desktop
 
 MacOS (Apple Silicon Mac): Install app from appstore
 
+**Advanced Troubleshooting procedures**
+
+App have dagnostic tool witch allows to see raw xml and adif communication
+
+To activate:
+
+Android/Win10M: type /DEBUG into callsign search field then click search, type /NODEBUG to deactivate
+
+iOS: go to system settings-->Logger 26-->Troubleshooting-->flip "Diagnostic Mode" toggle on
+
+
+
